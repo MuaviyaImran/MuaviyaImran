@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Muaviya Imran  
+# Hi 👋 I'm Muaviya Imran  
 
 ## 🚀 About Me  
 I'm a **Full-Stack Developer** from Lahore, Pakistan, with 2+ years of professional experience delivering **scalable, high-quality web applications**. My expertise lies in building performant **frontend interfaces** and reliable **backend systems**, combining creativity with problem-solving to craft solutions that align with business needs.  
