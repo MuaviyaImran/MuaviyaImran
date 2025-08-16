@@ -51,6 +51,15 @@ GitHub • Vercel • Netlify • DigitalOcean • Cypress Testing
 
 ---
 
+## 📊 GitHub Stats
+![Muaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuaviyaImran&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuaviyaImran&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MuaviyaImran&theme=radical)
+
+---
+
 ## 📫 Connect with Me  
 - GitHub: [MuaviyaImran](https://github.com/MuaviyaImran)  
 - LinkedIn: [Muaviya Imran](https://www.linkedin.com/in/muaviya-imran-4749a7215/)  
