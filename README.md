@@ -52,11 +52,11 @@ GitHub • Vercel • Netlify • DigitalOcean • Cypress Testing
 ---
 
 ## 📊 GitHub Stats
-![Muaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuaviyaImran&show_icons=true&theme=radical&v=2)
+![Muaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuaviyaImran&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuaviyaImran&layout=compact&theme=radical&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuaviyaImran&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MuaviyaImran&theme=radical&v=2)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MuaviyaImran&theme=radical)
 
 ---
 
