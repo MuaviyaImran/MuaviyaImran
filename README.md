@@ -18,7 +18,7 @@ React.js • Vue.js • Next.js • Nuxt.js • Tailwind CSS • Bootstrap • S
 Golang (Chi, Echo) • Node.js • Python (FastAPI, Flask) • REST APIs • Microservices  
 
 **AI & Data:**  
-LangChain • OpenAI API • Anthropic API • LLM Integrations • Data Scraping (Selenium, Pandas)  
+LangChain • OpenAI API • Anthropic API • LLM Integrations • Data Scraping (Selenium, Playwright, and Pandas)  
 
 **Databases:**  
 PostgreSQL • MongoDB • SQL  
